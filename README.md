@@ -38,7 +38,6 @@ This github repository contains a collection of direct links to IP/NET/ROUTING t
     <ul>
         <ul>
            <li><b><a href="https://stefansundin.github.io/traceroute-mapper/">Traceroute mapper</a></b><i></i></li>
-
         </ul>
     </ul>
 </details>
